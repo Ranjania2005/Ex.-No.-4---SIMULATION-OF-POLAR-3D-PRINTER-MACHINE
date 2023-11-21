@@ -36,8 +36,8 @@
 ![WhatsApp Image 2023-11-21 at 18 42 37_fbb9b989](https://github.com/Ranjania2005/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/151624950/80125c6f-312f-4276-9077-b59f63f7fa65)
 
 
-### Name:
-### Register Number:
+### Name:A.RANJANI
+### Register Number:23012505
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
